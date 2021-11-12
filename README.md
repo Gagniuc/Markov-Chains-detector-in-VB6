@@ -1,9 +1,9 @@
 # Markov Chains detector in VB6
-Markov Chains detector in VB6
+<kbd>Markov Chains detector in VB6</kbd>
 
-![](https://github.com/Gagniuc/Markov-Chains-detector-in-VB6/blob/main/screenshot/Markov%20Chains%20detector%20in%20VB6%20(2).gif)
+<kbd><img src="https://github.com/Gagniuc/Markov-Chains-detector-in-VB6/blob/main/screenshot/Markov%20Chains%20detector%20in%20VB6%20(2).gif" /></kbd>
 
-![](https://github.com/Gagniuc/Markov-Chains-detector-in-VB6/blob/main/screenshot/Markov%20Chains%20detector%20in%20VB6%20(3).gif)
+<kbd><img src="https://github.com/Gagniuc/Markov-Chains-detector-in-VB6/blob/main/screenshot/Markov%20Chains%20detector%20in%20VB6%20(3).gif" /></kbd>
 
 # References
 
