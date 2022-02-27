@@ -1,5 +1,6 @@
 # :fleur_de_lis: Markov Chains detector in VB6
-Markov Chains detector in VB6
+
+The current application uses two models, a model "+" that is associated with what we are looking for, and a model "-" that is associated with the background. Both models are represented by a transition matrix that is calculated or trained by using two sequences of observations. Namely, a sequence of observations that is known to belong to a region of interest (model "+") and a sequence of observations that may represent either a random sequence or a sequence other than the sequence "+". Once the model sequences have been used to construct the transition matrices for the two models, they are merged into a single matrix, namely into a log-likelihood matrix (LLM). The log-likelihood matrix represents "the memory", a kind of signature that can be used in some detections. But how?
 
 [This version in JS](https://gagniuc.github.io/Markov-Chains-scanner/) can also be of use: [Markov Chains detector in Javascript](https://github.com/Gagniuc/Markov-Chains-scanner)
 
