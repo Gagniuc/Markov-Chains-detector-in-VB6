@@ -11,4 +11,3 @@ The current VB6 application is a detector that uses two models, a model "+" that
 # References
 
 - <i>Paul A. Gagniuc. Algorithms in Bioinformatics: Theory and Implementation. John Wiley & Sons, Hoboken, NJ, USA, 2021, ISBN: 9781119697961.</i>
-
